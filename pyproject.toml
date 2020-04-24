@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "scrapy_sentry_sdk"
-version = "0.1.0"
+version = "0.1.1"
 description = "Scrapy extension for integration of Sentry SDK to Scrapy projects"
 authors = ["KristobalJunta <junta.kristobal@gmail.com>"]
 license = "MIT"
