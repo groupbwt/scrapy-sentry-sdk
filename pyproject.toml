@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "Scrapy extension for integration of Sentry SDK to Scrapy projects"
 authors = ["KristobalJunta <junta.kristobal@gmail.com>"]
 license = "MIT"
+readme = "README.md"
+repository = "https://github.com/groupbwt/scrapy-sentry-sdk/"
+keywords = ["Error reporting", "Monitoring", "Scrapy", "Sentry"]
+classifiers = ["Software Development :: Libraries :: Python Modules"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
