@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/groupbwt/scrapy-sentry-sdk/"
 keywords = ["Error reporting", "Monitoring", "Scrapy", "Sentry"]
-classifiers = ["Software Development :: Libraries :: Python Modules"]
+classifiers = ["Topic :: Software Development :: Libraries :: Python Modules"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
